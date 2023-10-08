@@ -1,6 +1,3 @@
-# pdf24
-Alright, let's create a README file for the PDF compression tool.
-
 ---
 
 # PDF Compression Tool
